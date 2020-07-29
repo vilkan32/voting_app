@@ -23,3 +23,4 @@ Architecture
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
 
+The code has been taken from here - https://github.com/bfirsh/example-voting-app i was watching udemy course and I stumbled upon the repo and liked it and reviewed it. Thanks to the contributor.
